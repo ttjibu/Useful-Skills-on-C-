@@ -1,0 +1,2 @@
+printf("%-5d", a[i][j]);
+cout<<left<<setw(5)<<a[i][j];
